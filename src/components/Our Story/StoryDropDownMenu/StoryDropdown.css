@@ -1,0 +1,31 @@
+.Our_story-Submenu {
+  position: absolute;
+  list-style: none;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 170px;
+  height: 168px;
+  margin-top: 250px;
+  margin-left: 84px;
+}
+.Our_story-Submenu li {
+  cursor: pointer;
+}
+
+.Submenu-item {
+  display: block;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 540;
+  padding-left: 35px;
+
+  color: #425f7cbf;
+}
+.Submenu-item:hover {
+  color: #9bc113;
+}
+.Our_story-Submenu_Clicked {
+  display: none;
+}

@@ -1,0 +1,32 @@
+.Insights-Submenu {
+    position: absolute;
+    list-style: none;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 187px;
+    height: 132px;
+    margin-top: 221px;
+    margin-left: 100px;
+  }
+  .Insights-Submenu li {
+    cursor: pointer;
+  }
+  
+  .Blogs-item {
+    display: block;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 540;
+    padding-left: 35px;
+  
+    color: #425f7cbf;
+  }
+  .Blogs-item:hover {
+    color: #9bc113;
+  }
+  .Insights-Submenu_Clicked {
+    display: none;
+  }
+  

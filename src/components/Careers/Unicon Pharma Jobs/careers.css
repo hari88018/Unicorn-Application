@@ -1,0 +1,109 @@
+.hirings{
+    margin-left: 78px;
+    margin-right: 113px;
+
+}
+.hirings_para1 h1{
+margin-bottom: 24px;
+color: #004474;
+opacity: 1;
+
+}
+.hirings_para1 p{
+   
+letter-spacing: 0px;
+opacity: 1;
+line-height: 1.5;
+}
+.hirings_para1 a{
+    color: #004474;
+    font-weight: 600;
+}
+.Qa_analyst{
+    width: 1140px;
+height: 360px;
+border: 1px solid #87A80D;
+border-radius: 12px;
+opacity: 1;
+margin-top: 40px;
+}
+.It_qa{
+    width: 1140px;
+    height: 80px;
+    border: 1px solid #87A80D;
+    border-radius: 12px 12px 0 0;
+    opacity: 1;
+    display: flex;
+align-items: center;
+}
+.It_qa h1{
+    letter-spacing: 0px;
+color: #004474;
+opacity: 1;
+margin-left: 24px;
+font-size: 24px;
+}
+.Qa_analyst p{
+    margin-left: 24px;
+    margin-right: 35px;
+    line-height: 1.7;
+    margin-top: 30px;
+}
+.Vecancy{
+    width: 1140px;
+    height: 80px;
+    border: 1px solid #1B2B4026;
+    border-radius: 12px;
+    opacity: 1;
+    display: flex;
+align-items: center;
+margin-top: 24px;
+}
+.Vecancy h1{
+    letter-spacing: 0px;
+color: #004474;
+opacity: 1;
+margin-left: 24px;
+font-size: 24px;
+}
+.right__{
+    display: block;
+    width: 600px;
+    height: 80px;
+    margin-top: 70px;
+}
+.right__ img{
+    float: right;
+    width: 16px;
+height: 7px;
+margin-right: 50px;
+
+}
+.svr{
+    display: flex;
+    width: 570px;
+    height: 80px;
+    align-items: center;
+}
+.hirings button{
+    width: 167px;
+    height: 48px;
+    background: #87A80D 0% 0% no-repeat padding-box;
+border-radius: 24px;
+opacity: 1;
+border-width: 0;
+color: #FFFFFF;
+opacity: 1;
+font-size: 16px;
+margin-top: 40px;
+}
+.hirings{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 130px;
+}
+.ourteam_experts_round img{
+    position: absolute;
+    margin-bottom: 30px;
+}

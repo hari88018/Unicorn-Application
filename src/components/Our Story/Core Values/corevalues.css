@@ -1,0 +1,44 @@
+.Corevalues_container{
+    height: 1429px;
+    width: 100vw;
+    margin-top: 90px;
+  position: relative;
+}
+.Core_container{
+    display: flex;
+    position: relative;
+    margin-top: 220px;
+    margin-left: 75px;
+    margin-bottom: 210px;
+}
+.Core_values{
+    width: 210px;
+height: 168px;
+border: 3px solid #87A80D;
+border-radius: 8px;
+opacity: 1;
+margin-right: 23px;
+display: flex;
+flex-direction: column;
+align-items:center ;
+cursor: pointer;
+}
+.Core_values img{
+    width: 64px;
+height: 64px;
+margin-top: 22px;
+}
+.Core_values p{
+    letter-spacing: 0px;
+color: #1B2B40BF;
+text-transform: capitalize;
+opacity: 1;
+margin-top: 16px;
+}
+.Group79{
+    position: absolute;
+    margin-bottom: 22px;
+}
+.Group79 img{
+    width: 100vw;
+}

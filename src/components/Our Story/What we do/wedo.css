@@ -1,0 +1,100 @@
+.Wedo_header-text {
+    margin-left: 400px;
+    padding-top: 100px;
+  }
+  .Wedo_header-text h2 {
+    font-size: 40px;
+    position: relative;
+    letter-spacing: 0px;
+    color: #004474;
+    opacity: 1;margin-left: 88px;
+  }
+
+
+
+
+.Wedo_middler-1 {
+    margin-top: 220px;
+    margin-left: 113px;
+    margin-bottom: 220px;
+    display: flex;
+}
+.Wedo_Group302 {
+ margin-right: 536px;
+}
+.Wedo_Group302_content img{
+    position: relative;
+    
+    
+}
+.Wedo_Group302  img{
+    position: absolute;
+    
+}
+.Wedo_Group302_content h1{
+    color: #004474;
+    padding-left: 66px;
+}
+
+.Group302_content{
+    width: 512px;
+    margin-top: 40px;
+}
+.Wedo_para p{
+   padding-left: 66px;
+    padding-top: 24px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+color: #1B2B40BF;
+opacity: 1;
+}
+.Wedo_offerings{
+    padding-top: 24px;
+    padding-left: 66px;
+}
+.Wedo_offerings h3{
+    color: #004474;
+    padding-left: 66px;
+}
+.Wedo_right{
+    display: flex;
+    flex-direction: column;margin-top: 24px;
+}
+.Wedo_right img{
+    width: 20px;
+height: 20px;
+margin-bottom: 24px;
+}
+.Wedo_check_container{
+    display: flex;
+}
+.Wedo_right_containt p{
+    margin-top: 25px;
+    margin-left: 12px;
+}
+.Wedo_btn-3{
+    width: 227px;
+height: 48px;
+background: #87A80D 0% 0% no-repeat padding-box;
+border-radius: 24px;
+opacity: 1;
+border-width: 0;
+color: #fff;
+}
+.Wedo_btn-4{
+    width: 169px;
+    height: 48px;
+    background: #004474 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    opacity: 1;
+border-width: 0;
+color: #fff;
+margin-left: 16px;
+}
+.Container{
+    display: flex;
+    overflow-x: scroll;
+    padding: 20px;
+    width: 1250px;
+    cursor: pointer;
+  }

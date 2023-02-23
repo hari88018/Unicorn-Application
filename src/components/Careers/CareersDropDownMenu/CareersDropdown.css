@@ -1,0 +1,36 @@
+.CareersDropdown-Submenu{
+    position: absolute;
+    list-style: none;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+justify-content: space-evenly; 
+width: 213px;
+height: 96px;margin-top: 180px;
+margin-left: 127px;
+}
+.CareersDropdown-Submenu li{
+    cursor: pointer;
+
+
+}
+
+.Career-item{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 540;
+    padding-left: 15px;
+    color: #425f7cbf;
+}
+.Career-item:hover{
+    color: #9bc113;
+
+}
+.Our_story-Submenu_Clicked{
+    display: none;
+}
+
+
+
